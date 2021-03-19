@@ -12,7 +12,7 @@ const Header = (props) => {
             src={Logo}
             alt="Logo"
             width="120"
-            height="80"
+            height="40"
           />
         </div>
       </div>
